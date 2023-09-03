@@ -1,15 +1,3 @@
-Certainly! Here's a commented `README.md` file and comments added to your Dart code for better understanding:
-
-```dart
-import 'dart:io';
-
-void main() {
-  // Create an empty map to store key-value pairs (String-Int)
-  Map<String, int> my_map = {};
-
-  // Populate the map by getting input from the user
-  GetMap(my_map);
-
 # Dart Code for List 
 
 ##  List Operations
